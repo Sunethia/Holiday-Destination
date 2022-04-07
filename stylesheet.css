@@ -1,0 +1,13 @@
+body {
+  font-family: monospace;
+  color: rgb(0, 0, 12);
+  background-color: blueviolet;
+}
+h1 {
+  color: beige;
+  font-family: Arial, Helvetica, sans-serif;
+}
+ol {
+  font-size: large;
+  font-style: italic;
+}
